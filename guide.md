@@ -22,6 +22,6 @@ Recommended sets: tabler, lucide, streamline flex
 ## support ATI for free
 if you like ATI, please leave a Heart on [the download page](https://routinehub.co/shortcut/22688/) ❤️
 ## credits and thanks
-ATI uses [Iconify](https://iconify.design/) for it's icons. We do not own any icons from Iconify. ATI simply helps you pick those icons and resize them so you can use them in menus
-The shortcut framework [Cyclone](https://routinehub.co/shortcut/19577/) helped me develop ATI 2x faster 🔥
-Various web APIs for magic 
+* ATI uses [Iconify](https://iconify.design/) for it's icons. 
+* The shortcut framework [Cyclone](https://routinehub.co/shortcut/19577/) helped me develop ATI 2x faster 🔥
+* Various web APIs for magic 
