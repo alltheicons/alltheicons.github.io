@@ -6,7 +6,7 @@ Recommended sets: tabler, lucide, streamline flex
 3. **Share to "All The Icons"**
 4. Customize and hit "Done" when ready
 
-## extra: how to create styled menus
+## extra: create styled menus
 1. choose and **add icons** to your collection
 2. go to **your collection**
 3. copy icon(s) in **vCard format**
