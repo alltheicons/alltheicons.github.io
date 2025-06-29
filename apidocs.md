@@ -1,4 +1,5 @@
-# API docs
+# note: API is currently broken. im working on fixing it next update
+
 ## format
 All The Icons has an API that allows you to run it from an external shortcut. To use, run the shortcut with a List input and other info. End each request with `api request`. For example,
 
