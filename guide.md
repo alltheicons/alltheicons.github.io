@@ -5,6 +5,7 @@ Recommended sets: tabler, lucide, streamline flex
 2. **Tap the Share button** at the bottom (The box with the arrow)
 3. **Share to "All The Icons"**
 4. Customize and hit "Done" when ready
+
 ## extra: how to create styled menus
 1. choose and **add icons** to your collection
 2. go to **your collection**
