@@ -15,6 +15,7 @@ the result of the request is in the shortcut output as a dictionary with the key
 the API will be revamped later, so keep the shortcut up to date
 
 svg images are not supported
+
 ---
 ## all commands
 ### find icons
