@@ -67,6 +67,7 @@ returns: none
 2. your icon in base64
 
 returns: your icon + bg in base64
+
 currently this doesnt have a iconbg parameter
 
 ## planned changes
