@@ -1,6 +1,7 @@
 # [read] new guide
 ## how to choose icons
 Recommended sets: tabler, lucide, streamline flex
+
 At first, this wont work because of Shortcuts restrictions.
 1. **choose your icon** or use the search bar
 2. **Tap the Share button** at the bottom (The box with the arrow)
