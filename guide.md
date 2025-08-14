@@ -1,4 +1,6 @@
 # [read] new guide
+## setup
+1. go to Settings -> Apps -> Shortcuts -> Advanced -> Allow running scripts. This is so All The Icons can get your chosen icon from the database
 ## how to choose icons
 Recommended sets: tabler, lucide, streamline flex
 
