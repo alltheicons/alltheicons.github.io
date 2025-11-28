@@ -1,4 +1,4 @@
-# [read] new guide
+# [read] guide v3
 ## setup
 1. go to Settings -> Apps -> Shortcuts -> Advanced -> Allow running scripts. This is so All The Icons can get your chosen icon from the database
 
@@ -6,10 +6,15 @@
 Recommended sets: tabler, lucide, streamline flex
 
 At first, this wont work because of Shortcuts restrictions.
+
 1. **choose your icon** or use the search bar
-2. **Tap the Share button** at the bottom (The box with the arrow)
-3. **Share to "All The Icons"**
-4. Customize and hit "Done" when ready
+2. **scroll to the bottom** at the bottom (The box with the arrow)
+3. Hold-tap the tiny PNG at the very bottom
+4. **Share to "All The Icons"**
+5. Customize and hit "Done" when ready
+
+If this doesn't work try switching from PNG to SVG and then back to PNG mode
+If it still doesn't work then make a support request
 
 ## extra: create styled menus
 1. choose and **add icons** to your collection
