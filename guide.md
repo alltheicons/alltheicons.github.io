@@ -8,9 +8,9 @@ Recommended sets: tabler, lucide, streamline flex
 At first, this wont work because of Shortcuts restrictions.
 
 1. **choose your icon** or use the search bar
-2. **scroll to the bottom** at the bottom (The box with the arrow)
-3. Hold-tap the tiny PNG at the very bottom
-4. **Share to "All The Icons"**
+2. **scroll to the bottom**
+3. **Hold-tap the tiny PNG** at the very bottom
+4. **Share the PNG to "All The Icons"**
 5. Customize and hit "Done" when ready
 
 If this doesn't work try switching from PNG to SVG and then back to PNG mode
