@@ -1,19 +1,18 @@
 # [read] guide v3
 ## setup
-1. go to Settings -> Apps -> Shortcuts -> Advanced -> Allow running scripts. This is so All The Icons can get your chosen icon from the database
+go to Settings -> Apps -> Shortcuts -> Advanced -> Allow running scripts. This is so All The Icons can get your chosen icon from the database
 
 ## how to choose icons
-Recommended sets: tabler, lucide, streamline flex
-
-At first, this wont work because of Shortcuts restrictions.
+*NOTE: Your first icon wont work because of iOS Shortcuts limitations*
 
 1. **choose your icon** or use the search bar
-2. **Hold-tap the tiny PNG** at the very bottom
-3. **Share the PNG to "All The Icons"**
-4. Customize and hit "Done" when ready
+2. **with your icon selected, set it to "PNG"**
+3. **Hold-tap the new tiny PNG** at the very bottom
+4. **Share the PNG -> to "All The Icons"**
+5. Customize and hit "Done" when ready
 
 If this doesn't work try switching from PNG to SVG and then back to PNG mode
-If it still doesn't work then make a support request
+If it still doesn't work then contact our support
 
 ## extra: create styled menus
 1. choose and **add icons** to your collection
